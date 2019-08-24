@@ -9,7 +9,7 @@ def my_find(collection)
     if my_results = true 
       return collection[i]
     end
-    i+=1 
+    i+= 1 
   end
   nil  
 end
